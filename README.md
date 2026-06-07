@@ -1,3 +1,3 @@
 # hello_git
 ___________
-This is a testt repo
+This is a new test repo
